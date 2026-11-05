@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <video src="./JosianeSousa.gif" autoplay loop muted playsinline width="250px" style="border-radius: 50% !important;"></video>
+      <video src="https://raw.githubusercontent.com/josianefsousa/josianefsousa/main/JosianeSousa.gif" autoplay loop muted playsinline width="250px" style="border-radius: 50% !important;"></video>
     </td>
     <td width="65%">
       <ul>
