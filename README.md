@@ -13,6 +13,10 @@
 - 🏳️‍⚧️ Pronomes: Ela/Dela
 - ⚡ Curiosidade: Gosto de jogar video-games e cantar por hobby.
 
+<div align="center">
+  <img src="./Gemini_Generated_Gif_rchqamrchqamrchq.gif" alt="Meu Avatar Animado" width="220px" style="border-radius: 50%;" />
+</div>
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
