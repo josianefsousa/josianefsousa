@@ -6,12 +6,24 @@
 ---
 
 ### Sobre mim 🚀
-- 🔭 Atualmente, estou no Bootcamp da **Generation**!
-- 🌱 No momento, estou a focar os meus estudos em **Análise de Dados**.
-- 🤝 Estou em busca de colaborações para entender mais sobre códigos, boas práticas e ferramentas.
-- 👩‍💻 Preciso de ajuda com **Python, GitHub, VS Code, Notebook Jupyter** e todas as ferramentas possíveis para Análise de Dados.
-- 🏳️‍⚧️ Pronomes: Ela/Dela
-- ⚡ Curiosidade: Gosto de jogar video-games e cantar por hobby.
+
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img src="./JosianeSousa.gif" alt="Meu Avatar Animado" width="250px" style="border-radius: 50% !important;" />
+    </td>
+    <td width="65%">
+      <ul>
+        <li>🔭 Atualmente, estou no Bootcamp da <strong>Generation</strong>!</li>
+        <li>🌱 No momento, estou a focar os meus estudos em <strong>Análise de Dados</strong>.</li>
+        <li>🤝 Estou em busca de colaborações para entender mais sobre códigos, boas práticas e ferramentas.</li>
+        <li>💻 Preciso de ajuda com <strong>Python, GitHub, VS Code, Notebook Jupyter</strong> e todas as ferramentas possíveis para Análise de Dados.</li>
+        <li>🏳️‍⚧️ Pronomes: Ela/Dela</li>
+        <li>⚡ Curiosidade: Gosto de jogar video-games e cantar por hobby.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
