@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="./JosianeSousa.gif" alt="Meu Avatar Animado" width="250px" style="border-radius: 50% !important;" />
+      <video src="./JosianeSousa.gif" autoplay loop muted playsinline width="250px" style="border-radius: 50% !important;"></video>
     </td>
     <td width="65%">
       <ul>
