@@ -28,7 +28,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=josianefsousa&color=blueviolet&style=flat-square" alt="Contador de Visitantes" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josianefsousa&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
