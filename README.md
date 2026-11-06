@@ -80,5 +80,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/josianefsousa/josianefsousa/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/josianefsousa/josianefsousa/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
