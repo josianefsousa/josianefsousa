@@ -27,6 +27,11 @@
 
 ---
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=josianefsousa&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub&show_icons=true&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=josianefsousa&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub&show_icons=true&include_all_commits=true&theme=synthwave)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=josianefsousa&langs_count=5&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=josianefsousa&langs_count=5&theme=ambient_gradient)
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
