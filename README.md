@@ -69,7 +69,3 @@
   <img src="https://img.shields.io/badge/Foco-Análise_de_Dados-blueviolet?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Foco" />
   <img src="https://img.shields.io/badge/Status-Em_Evolução_Contínua-success?style=for-the-badge" alt="Status" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/josianefsousa/josianefsousa/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
