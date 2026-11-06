@@ -27,8 +27,12 @@
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=josianefsousa&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub&show_icons=true&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=josianefsousa&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20no%20GitHub&show_icons=true&include_all_commits=true&theme=synthwave)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=josianefsousa&langs_count=5&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=josianefsousa&langs_count=5&theme=ambient_gradient)
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=josianefsousa&rank_icon=github&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=synthwave" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=josianefsousa&langs_count=5&theme=ambient_gradient" alt="Top Langs" />
+</div>
 
 ---
 
@@ -76,5 +80,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/josianefsousa/josianefsousa/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github.com/josianefsousa/josianefsousa/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
