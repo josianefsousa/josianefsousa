@@ -1,18 +1,6 @@
 <div align="center">
-  <h1>Olá, seja muito bem-vinda(o) ao meu perfil! 👋</h1>
+  <h1>Olá, seja boas vindas ao meu perfil! 👋</h1>
   <p><em>"Transformando dados em histórias e aprendendo a cada linha de código."</em></p>
-</div>
-
----
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação do Dia" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -36,6 +24,18 @@
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação do Dia" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
