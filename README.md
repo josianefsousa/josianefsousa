@@ -6,7 +6,14 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação do Dia" />
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <p><em>"A persistência é o caminho do êxito. Transformando dados em histórias e aprendendo a cada linha de código."</em></p>
+        <p><strong>— Josiane Sousa</strong> 📊✨</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
