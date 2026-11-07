@@ -77,9 +77,13 @@
   </a>
 </div>
 
+---
+
 ### 🧠 O que estou aprendendo / Habilidades
 
 <div align="center">
+
+---
 
 | Categoria | Tecnologias / Ferramentas |
 | :--- | :--- |
