@@ -28,6 +28,17 @@
 
 ---
 
+### 📁 Projetos em Destaque
+
+> Explore o repositório central **[projetos_ad05](https://github.com/josianefsousa/projetos_ad05)** que reúne os trabalhos práticos do meu Bootcamp de Análise de Dados:
+
+| 🚀 Projeto | 📝 Descrição | 🔗 Acesso |
+| :--- | :--- | :--- |
+| **Calculadora Python** | Calculadora interativa em terminal com suporte a cálculo contínuo, interface visual personalizada e análise matemática (par/ímpar, inteiro/decimal). | [Ver Pasta](./projetos_ad05/atividade_calculadora) |
+| **Streaming de Filmes** | Modelagem e análise exploratória de dados desenvolvida com Python e Jupyter Notebook. | [Ver Pasta](./projetos_ad05/streaming_de_filmes) |
+
+---
+
 <div align="center">
   <table width="100%">
     <tr>
