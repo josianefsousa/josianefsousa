@@ -34,8 +34,8 @@
 
 | 🚀 Projeto | 📝 Descrição | 🔗 Acesso |
 | :--- | :--- | :--- |
-| **Calculadora Python** | Calculadora interativa em terminal com suporte a cálculo contínuo, interface visual personalizada e análise matemática (par/ímpar, inteiro/decimal). | [Ver Pasta](./projetos_ad05/atividade_calculadora) |
-| **Streaming de Filmes** | Modelagem e análise exploratória de dados desenvolvida com Python e Jupyter Notebook. | [Ver Pasta](./projetos_ad05/streaming_de_filmes) |
+| **Calculadora Python** | Calculadora interativa em terminal com suporte a cálculo contínuo, interface visual personalizada e análise matemática (par/ímpar, inteiro/decimal). | [Ver Pasta](./projetos_ad05/tree/main/atividade_calculadora) |
+| **Streaming de Filmes** | Modelagem e análise exploratória de dados desenvolvida com Python e Jupyter Notebook. | [Ver Pasta](./projetos_ad05/tree/main/streaming_de_filmes) |
 
 ---
 
